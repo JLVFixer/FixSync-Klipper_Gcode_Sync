@@ -1,0 +1,22 @@
+# Config con datos reales / contraseña en texto plano — nunca se sube
+printers.json
+settings.json
+
+# Artefactos de PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

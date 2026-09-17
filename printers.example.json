@@ -1,0 +1,13 @@
+{
+  "local_gcodes_dir": "D:\\Impresión 3D\\Gcode",
+  "ssh_user": "fixer",
+  "ssh_password": "",
+  "remote_gcodes_path": "/home/fixer/printer_data/gcodes",
+  "moonraker_port": 7125,
+  "ssh_port": 22,
+  "printers": [
+    { "name": "Mark1", "host": "192.168.1.51" },
+    { "name": "Mark2", "host": "192.168.1.52" },
+    { "name": "Mark3", "host": "192.168.1.53" }
+  ]
+}
